@@ -12,4 +12,4 @@
 [Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=M-Naqi0789&show_icons=true&theme=dark)
 
 ### 📨 Get in touch
-[LinkedIn](https://www.linkedin.com/in/muhammad-naqi-4b2b5636a/) | [Email](mnaqi0789@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/muhammad-naqi-4b2b5636a/) | [Email](mailto:mnaqi0789@gmail.com)
